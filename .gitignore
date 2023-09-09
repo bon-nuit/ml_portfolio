@@ -1,0 +1,11 @@
+
+
+440data/
+440data/*
+
+__pycache__
+
+*.data
+*.info
+*.names
+*.png
